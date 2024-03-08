@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">yyKifehDemo</string>
+    <string name="google_maps_key">AIzaSyArv0zDFWad2xEFtI9p4nVc-fhocwEHioY</string>
+    <string name="currentLocation">ena houni</string>
+    <string name="destination">Ghadi</string>
+    <string name="yalla">Yalla </string>
+    <string name="translate">badel el lougha ! </string>
+</resources>

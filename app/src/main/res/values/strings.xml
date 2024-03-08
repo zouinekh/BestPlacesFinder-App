@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">yyKifehDemo</string>
+    <string name="google_maps_key">AIzaSyArv0zDFWad2xEFtI9p4nVc-fhocwEHioY</string>
+    <string name="currentLocation">my location</string>
+    <string name="destination">destination</string>
+    <string name="yalla">let\'s go </string>
+    <string name="translate">translate</string>
+
+</resources>

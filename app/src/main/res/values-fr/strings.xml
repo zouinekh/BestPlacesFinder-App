@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">yyKifehDemo</string>
+    <string name="google_maps_key">AIzaSyArv0zDFWad2xEFtI9p4nVc-fhocwEHioY</string>
+    <string name="currentLocation">Mon Localisatoin</string>
+    <string name="destination">Destination</string>
+    <string name="yalla">vas-y </string>
+    <string name="translate">Traduis </string>
+</resources>
