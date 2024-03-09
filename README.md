@@ -13,7 +13,7 @@ Welcome to BestPlacesFinder, a mobile application developed using Java SDK 34 th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/BestPlacesFinder.git
+   git clone https://github.com/zouinekh/BestPlacesFinder-App.git
 2. Open the project in Android Studio or your preferred Java development environment.
 3. Build and run the app on your emulator or physical device.
 4. Explore the app, discover the best places, and enjoy seamless navigation with Google Maps.
