@@ -20,3 +20,4 @@ Welcome to BestPlacesFinder, a mobile application developed using Java SDK 34 th
    
 ## Contribution Guidelines
 We welcome contributions! If you have suggestions, bug reports, or want to contribute code, please follow our contribution guidelines.
+test
